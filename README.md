@@ -52,80 +52,20 @@ Below is the list of the 100 games included in this collection:
 24. **Ludo:** Implement a basic Ludo board game.
 25. **Chess:** Create a two-player chess game (with a simplified UI).
 26. **Bingo:** A simple bingo game where numbers are called out.
-27. **Fruit Ninja Clone:** Recreate a simplified version of the Fruit Ninja game.
-28. **Pacman Clone:** Make a simplified version of the classic Pacman game.
-29. **Hangman Multiplayer:** Add a multiplayer option to the Hangman game.
-30. **Math Quiz:** Generate math questions for the player to solve.
-31. **Trivia Quiz:** Create a trivia quiz game with multiple-choice questions.
-32. **Morse Code Translator:** Build a game that translates text to Morse code and vice versa.
-33. **Tetris Clone:** Recreate a simplified version of the Tetris game.
-34. **Space Invaders Clone:** Make a simplified version of the Space Invaders game.
-35. **Doodle Jump Clone:** Recreate a simplified version of the Doodle Jump game.
-36. **Pinball:** Create a simple pinball game.
-37. **Mini Golf:** Build a mini-golf game with obstacles and holes.
-38. **Asteroids Clone:** Make a simplified version of the Asteroids game.
-39. **Chess AI:** Create a chess game with an AI opponent.
-40. **Checkers:** Implement a two-player checkers (draughts) game.
-41. **Math Puzzles:** Generate and solve math puzzles like Sudoku or Kakuro.
-42. **Hangman Online:** Add online multiplayer functionality to Hangman.
-43. **Jigsaw Puzzle:** Build a jigsaw puzzle game with different images.
-44. **Frogger Multiplayer:** Add multiplayer functionality to the Frogger game.
-45. **Tetris Multiplayer:** Add multiplayer functionality to the Tetris game.
-46. **Scrabble:** Create a word game similar to Scrabble.
-47. **Chess Online:** Add online multiplayer functionality to the chess game.
-48. **Pong Multiplayer:** Create a multiplayer version of the Pong game.
-49. **Flappy Bird Multiplayer:** Add multiplayer functionality to the Flappy Bird game.
-50. **Racing Game:** Create a simple 2D racing game.
-51. **Labyrinth:** Generate a maze and let the player navigate through it.
-52. **Space Shooter:** Build a 2D space shooter game.
-53. **Bomberman Clone:** Make a simplified version of the Bomberman game.
-54. **Roulette:** Implement a simple roulette game.
-55. **Blackjack:** Create a simplified version of the blackjack card game.
-56. **2048 Multiplayer:** Add multiplayer functionality to the 2048 game.
-57. **Word Ladder:** Create a word ladder game where players transform one word into another.
-58. **Tower Defense:** Build a basic tower defense game.
-59. **Memory Match Multiplayer:** Add multiplayer functionality to the memory card game.
-60. **Connect Four Multiplayer:** Add online multiplayer functionality to Connect Four.
-61. **Minesweeper Multiplayer:** Add multiplayer functionality to Minesweeper.
-62. **Fruit Ninja Multiplayer:** Add online multiplayer functionality to Fruit Ninja.
-63. **Tic-Tac-Toe Online:** Add online multiplayer functionality to Tic-Tac-Toe.
-64. **Sudoku Multiplayer:** Add online multiplayer functionality to Sudoku.
-65. **Crossword Puzzle Multiplayer:** Add multiplayer functionality to crossword puzzles.
-66. **Bingo Online:** Add online multiplayer functionality to Bingo.
-67. **Online Chess:** Create an online chess game with real-time gameplay.
-68. **Online Checkers:** Add online multiplayer functionality to checkers.
-69. **Online Poker:** Implement a simple online poker game.
-70. **Online Blackjack:** Add online multiplayer functionality to blackjack.
-71. **Online Roulette:** Create an online roulette game with multiplayer.
-72. **Online Ludo:** Add online multiplayer functionality to Ludo.
-73. **Online Trivia Quiz:** Create an online multiplayer trivia quiz.
-74. **Online Racing Game:** Build an online multiplayer racing game.
-75. **Online Space Shooter:** Add online multiplayer functionality to the space shooter game.
-76. **Online Tower Defense:** Create an online multiplayer tower defense game.
-77. **Online Word Search:** Add online multiplayer functionality to word search puzzles.
-78. **Online Snake:** Implement an online multiplayer Snake game.
-79. **Online Tic-Tac-Toe:** Add online multiplayer functionality to Tic-Tac-Toe.
-80. **Online Chess AI:** Create an online chess game with AI opponents.
-81. **Online Checkers AI:** Add online multiplayer functionality to checkers with AI opponents.
-82. **Online Sudoku:** Implement an online multiplayer Sudoku game.
-83. **Online Crossword Puzzle:** Add online multiplayer functionality to crossword puzzles with real-time gameplay.
-84. **Online Bingo:** Create an online multiplayer Bingo game.
-85. **Card Matching Game:** Build a card matching game with different themes.
-86. **Color Matching:** Create a game where the player matches colors.
-87. **Simon Memory Multiplayer:** Add online multiplayer functionality to the Simon Says game.
-88. **Online Racing Multiplayer:** Add online multiplayer functionality to the racing game.
-89. **Online Space Shooter Multiplayer:** Create an online multiplayer space shooter game.
-90. **Online Bomberman:** Add online multiplayer functionality to the Bomberman game.
-91. **Online Tower Defense Multiplayer:** Create an online multiplayer tower defense game with real-time gameplay.
-92. **Online Math Quiz:** Implement an online multiplayer math quiz.
-93. **Online Word Ladder:** Add online multiplayer functionality to the word ladder game.
-94. **Online Mini Golf:** Create an online multiplayer mini-golf game.
-95. **Online Pong Multiplayer:** Add online multiplayer functionality to Pong.
-96. **Online Flappy Bird Multiplayer:** Implement an online multiplayer Flappy Bird game.
-97. **Online 2048 Multiplayer:** Add online multiplayer functionality to 2048.
-98. **Online Brick Breaker:** Create an online multiplayer brick breaker game.
-99. **Online Space Invaders:** Add online multiplayer functionality to the Space Invaders game.
-100. **Online Sudoku Multiplayer:** Implement an online multiplayer Sudoku game with real-time gameplay.
+27. **Pacman Clone:** Make a simplified version of the classic Pacman game.
+28. **Math Quiz:** Generate math questions for the player to solve.
+29. **Trivia Quiz:** Create a trivia quiz game with multiple-choice questions.
+30. **Morse Code Translator:** Build a game that translates text to Morse code and vice versa.
+31. **Tetris Clone:** Recreate a simplified version of the Tetris game.
+32. **Space Invaders Clone:** Make a simplified version of the Space Invaders game.
+33. **Doodle Jump Clone:** Recreate a simplified version of the Doodle Jump game.
+34. **Pinball:** Create a simple pinball game.
+35. **Mini Golf:** Build a mini-golf game with obstacles and holes.
+36. **Jigsaw Puzzle:** Build a jigsaw puzzle game with different images.
+37. **Scrabble:** Create a word game similar to Scrabble.
+38. **Labyrinth:** Generate a maze and let the player navigate through it.
+39. **Roulette:** Implement a simple roulette game.
+40. **Tower Defense:** Build a basic tower defense game.
 
      
 
