@@ -1,9 +1,9 @@
-# 100-Games-Using-Python
-This repository is a collection of 100 simple and fun games, all created using Python. Whether you're a beginner looking to learn Python or a seasoned developer seeking inspiration, explore and enjoy a wide variety of classic and original games right here.
+# 50-Games-Using-Python
+This repository is a collection of 50 simple and fun games, all created using Python. Whether you're a beginner looking to learn Python or a seasoned developer seeking inspiration, explore and enjoy a wide variety of classic and original games right here.
 
-# 100 Python Games Collection
+# 50 Python Games Collection
 
-Welcome to the 100 Python Games Collection! This repository is a compilation of 100 simple and entertaining games, all implemented using Python. Whether you're a beginner looking to learn Python or an experienced developer seeking inspiration, this diverse collection has something for everyone.
+Welcome to the 50 Python Games Collection! This repository is a compilation of 50 simple and entertaining games, all implemented using Python. Whether you're a beginner looking to learn Python or an experienced developer seeking inspiration, this diverse collection has something for everyone.
 
 ![Python Games](images/python_games.png)
 
@@ -22,9 +22,9 @@ Python is a versatile programming language, and what better way to explore its c
 
 ## Games List
 
-Below is the list of the 100 games included in this collection:
+Below is the list of the 50 games included in this collection:
 
-# 100 Games
+# 50 Games
 
 1. **Guess the Number:** The computer generates a random number, and the player has to guess it.
 2. **Hangman:** A classic word-guessing game where the player tries to guess a hidden word letter by letter.
@@ -78,11 +78,11 @@ To run any of the games in this collection, follow these general installation st
 1. Clone this repository to your local machine using `git clone`.
 
 ```bash
-git clone https://github.com/your-username/100-Games-Using-Python.git
+git clone https://github.com/your-username/50-Games-Using-Python.git
 
 Navigate to the specific game directory you want to play.
 
-cd 100-Python-Games/GameName
+cd 50-Python-Games/GameName
 
 Run the Python script for that game
 
